@@ -1,0 +1,11 @@
+name: crypto-dca-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pylint
+  - ipykernel
+  - requests
+  - boto3
+prefix: /home/elliot/anaconda3/envs/crypto-dca-env

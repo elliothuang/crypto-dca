@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Temporary files
+temp/
+
+# Lambda layer
+lambda/layers/package/python/*
+lambda/layers/crypto-dca-lib.zip
+!lambda/layers/package/python/coinbasepro.py
